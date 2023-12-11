@@ -1,0 +1,19 @@
+.section {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 500px;
+  background-color: aquamarine;
+  box-shadow: 0 0 25px rgb(163, 215, 182);
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.title {
+  font-size: 30px;
+}
